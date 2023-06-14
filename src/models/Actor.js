@@ -28,4 +28,5 @@ const Actor = sequelize.define('actor', {
     },
 });
 
+
 module.exports = Actor;
